@@ -23,7 +23,7 @@ This project is focused on creating a simple HTML-only website with multiple pag
 
 ### 2. Navigate to the project directory
 
-cd yourrepository
+cd basic-html-website
 
 ### 3. Open the index.html file in your browser
 
